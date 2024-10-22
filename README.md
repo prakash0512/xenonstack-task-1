@@ -53,6 +53,12 @@ npm i
 ```
 run `npm start` and backend will start
 
+
+![WhatsApp Image 2024-10-22 at 10 28 06 PM](https://github.com/user-attachments/assets/93fa0d0a-0401-4e8f-8f7c-c80557d277fe)
+![WhatsApp Image 2024-10-22 at 10 28 06 PM (1)](https://github.com/user-attachments/assets/abd39a44-bf95-4c85-90fe-5bbf955e6225)
+![WhatsApp Image 2024-10-22 at 10 28 05 PM](https://github.com/user-attachments/assets/99afea75-5c1e-4466-a7f2-a23ff8abdba2)
+![WhatsApp Image 2024-10-22 at 10 28 05 PM (1)](https://github.com/user-attachments/assets/a467b894-cdb2-4936-b13a-121456c577da)
+
   
   
 
